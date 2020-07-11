@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  padding: 20px;
+}
+
+.active {
+  color: #074a92
+}
+
+.nav {
+  justify-content: center;
+}
+
+.title {
+  font-weight: bold;
+  text-align: center;
+}
